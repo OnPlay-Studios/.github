@@ -20,7 +20,7 @@ V **Empega Studios** veríme, že technológia je nástrojom kreativity. S každ
 ## 📫 Kontakt
 
 Máte záujem o spoluprácu alebo otázky?  
-- E-mail: info@empegastudios.com  
+- E-mail: empega@nuiland.fun  
 - Web: [www.empegastudios.com](https://www.empegastudios.com)
 
 ---
