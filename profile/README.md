@@ -25,4 +25,4 @@ Máte záujem o spoluprácu alebo otázky?
 
 ---
 
-*“Inovujeme, tvoríme a posúvame hranice digitálneho sveta.”*
+*“Inovujeme, tvoríme a posúvame hranice.”*
