@@ -1,6 +1,6 @@
-# Empega Studios
+# Onplay Studios
 
-V **Empega Studios** spájame vášeň pre technológie, herný priemysel a moderné digitálne riešenia. Naša misia je tvoriť inovácie, ktoré posúvajú hranice digitálneho sveta a prinášajú našim klientom jedinečný zážitok.  
+V **Onplay Studios** spájame vášeň pre technológie, herný priemysel a moderné digitálne riešenia. Naša misia je tvoriť inovácie, ktoré posúvajú hranice digitálneho sveta a prinášajú našim klientom jedinečný zážitok.  
 
 ## 🌐 Naše špecializácie
 
@@ -15,13 +15,12 @@ V **Empega Studios** spájame vášeň pre technológie, herný priemysel a mode
 
 ## 🎯 Naša filozofia
 
-V **Empega Studios** veríme, že technológia je nástrojom kreativity. S každým projektom prinášame unikátny prístup, profesionálne riešenia a inovácie, ktoré robia rozdiel.
+V **Onplay Studios** veríme, že technológia je nástrojom kreativity. S každým projektom prinášame unikátny prístup, profesionálne riešenia a inovácie, ktoré robia rozdiel.
 
 ## 📫 Kontakt
 
 Máte záujem o spoluprácu alebo otázky?  
 - E-mail: empega@nuiland.fun  
-- Web: [www.empegastudios.com](https://www.empegastudios.com)
 
 ---
 
